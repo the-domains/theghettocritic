@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[theghettocritic]]></title>
+        <description><![CDATA[theghettocritic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 07:23:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://youtu.be/C_3d6GntKbk</p>]]></description>
+            <link>undefinedd04f055b-bc56-487b-b53b-60eb4e1e32a8/index.html</link>
+            <guid isPermaLink="false">d04f055b-bc56-487b-b53b-60eb4e1e32a8</guid>
+            <pubDate>Fri, 29 Jan 2016 07:23:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
